@@ -1,0 +1,10 @@
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\obj\Debug\Visual_Assignment.csproj.AssemblyReference.cache
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\obj\Debug\WindowsFormsApp1.FarmingDashboard.resources
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\obj\Debug\Visual_Assignment.Properties.Resources.resources
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\obj\Debug\Visual_Assignment.csproj.GenerateResource.cache
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\obj\Debug\Visual_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\obj\Debug\Visual_Assignment.exe
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\obj\Debug\Visual_Assignment.pdb
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\bin\Debug\Visual_Assignment.exe.config
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\bin\Debug\Visual_Assignment.exe
+C:\Users\Laser\Documents\SchoolWork\CEN3031\Visual C# Assignment\Visual_Assignment\bin\Debug\Visual_Assignment.pdb
